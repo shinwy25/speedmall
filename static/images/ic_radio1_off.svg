@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="radio_btn" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-4{stroke:none}.cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="타원_500" fill="#fff" stroke="#f41300" transform="translate(2 2)">
+        <circle cx="8" cy="8" r="8" class="cls-4"/>
+        <circle cx="8" cy="8" r="7.5" class="cls-5"/>
+    </g>
+    <g id="타원_504" fill="#fff" stroke="#ddd">
+        <circle cx="10" cy="10" r="10" class="cls-4"/>
+        <circle cx="10" cy="10" r="9.5" class="cls-5"/>
+    </g>
+</svg>

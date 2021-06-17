@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:#111}
+        </style>
+    </defs>
+    <g id="ico_list_filter" transform="translate(-20 -249)">
+        <path id="guide" fill="none" d="M0 0H20V20H0z" opacity="0.25" transform="translate(20 249)"/>
+        <rect id="사각형_3600" width="9" height="1" class="cls-2" rx=".5" transform="translate(28 253)"/>
+        <rect id="사각형_3601" width="5" height="1" class="cls-2" rx=".5" transform="translate(30 255)"/>
+        <path id="패스_17131" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" d="M20 250l6.5 7v6l3 2v-8l6.5-7" transform="translate(2 2)"/>
+    </g>
+</svg>

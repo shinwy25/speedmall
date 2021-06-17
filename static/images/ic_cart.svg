@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-3,.cls-6{fill:none}.cls-3,.cls-4{stroke:#111}.cls-3{stroke-linecap:round}.cls-4{fill:#fff}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="ico_cart" transform="translate(8 -2)">
+        <path id="guide" fill="none" d="M0 0H20V20H0z" opacity="0.25" transform="translate(-8 2)"/>
+        <path id="패스_288" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" d="M-9 3h2l4 10.006h8l4-7.5" transform="translate(2 2.494)"/>
+        <path id="패스_289" d="M819 1325v8" class="cls-3" transform="translate(-816 -1322)"/>
+        <path id="패스_290" d="M376 556l2.5 2.5 2.5-2.5" class="cls-3" transform="translate(-375.5 -546.5)"/>
+        <g id="타원_142" class="cls-4" transform="translate(-2 18)">
+            <circle cx="1.5" cy="1.5" r="1.5" class="cls-5"/>
+            <circle cx="1.5" cy="1.5" r="1" class="cls-6"/>
+        </g>
+        <g id="타원_143" class="cls-4" transform="translate(5 18)">
+            <circle cx="1.5" cy="1.5" r="1.5" class="cls-5"/>
+            <circle cx="1.5" cy="1.5" r="1" class="cls-6"/>
+        </g>
+    </g>
+</svg>
